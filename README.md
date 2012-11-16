@@ -25,7 +25,7 @@ Developers should check out that project and export a jar file for the latest ve
 When you export the Anymote-for-Java project as a jar file, do not include its lib directory since this project already includes those jar files.</p>
 
 
-<iframe width="560" height="315" src="http://www.youtube.com/embed/FWxjOts8kZk" frameborder="0" allowfullscreen></iframe>
+<p>Watch this <a href="http://www.youtube.com/embed/FWxjOts8kZk">video</a> to see the application in action.</p>
 
 <p>References:
 <ul>
