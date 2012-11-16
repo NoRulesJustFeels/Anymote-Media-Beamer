@@ -24,6 +24,9 @@ To play the video, a web server is created on port 8080 on your computer and you
 Developers should check out that project and export a jar file for the latest version of the code. 
 When you export the Anymote-for-Java project as a jar file, do not include its lib directory since this project already includes those jar files.</p>
 
+
+<iframe width="560" height="315" src="http://www.youtube.com/embed/FWxjOts8kZk" frameborder="0" allowfullscreen></iframe>
+
 <p>References:
 <ul>
 <li><a href="https://developers.google.com/tv/remote/docs/pairing">Google TV Pairing Protocol</a></li>
